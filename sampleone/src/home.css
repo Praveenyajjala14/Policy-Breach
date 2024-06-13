@@ -1,0 +1,110 @@
+.Thublogo{
+    padding-right: 650px;
+  }
+  .Thubimg{
+    float: right;
+  }
+  
+
+
+
+   .link{
+    color:black;
+    padding-right: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  } 
+
+  #basic-nav-dropdown{
+    color: white;
+    border:solid 1px;
+    border-radius: 8px;
+    background-color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+
+  .main{
+    align-content: space-between;
+    padding-right: 50px;
+  }
+
+ .link:hover{
+    color:green;
+    text-decoration: underline;
+  } 
+
+
+  #basic-nav-dropdown:hover{
+   background-color: rgb(173, 52, 52);
+  
+  }
+  .img-fluid{
+    padding-top: 10px;
+  }
+  
+  .dpp{
+    background-color: red;
+  
+  }
+  .tg{
+    padding-top: 30px;
+  }
+  .e1{
+    background-color: whitesmoke;
+    border: solid 1px;
+    border-radius: 10px;
+    border-style: groove;
+    margin-right: 70px;
+  }
+  .e2{
+    margin-left: 80px;
+  }
+  .ready{
+    color: royalblue;
+  }
+  .eve{
+    text-align: center;
+    padding: 30px;
+  }
+  .foot{
+    background-color: #343a40;
+  }
+  .add{
+    font-size: 13px;
+    color: white;
+  }
+  .add h6{
+    color: rgb(115, 198, 215);
+  }
+  .list-unstyled li a{
+    color: white;
+    text-decoration: none;
+  }
+  .list-unstyled li a:hover{
+    color: royalblue;
+  }
+  
+  .icons ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 8px;
+    
+  }
+  
+  .icons{
+    padding-top: 20px;
+  }
+  .text-uppercase{
+    color: rgb(221, 90, 108);
+  }
+  .footer-copyright{
+    color:aliceblue;
+  }
+  .footer-copyright a{
+    text-decoration: none;
+    color:aliceblue;
+  }
+
+
+  

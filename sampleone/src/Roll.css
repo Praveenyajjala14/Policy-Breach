@@ -1,0 +1,50 @@
+body{
+    background-image: url('./images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 100px;
+    padding-left: 135px;
+}
+h3{
+    color: black;
+    font-weight: bold;
+    padding: 40px;
+    padding-left: 50px;
+}
+.rollmain{
+    border: solid 1px white;
+    width: 100%;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+.rollinput{
+    height: 80px;
+    padding-left: 45px;
+}
+input{
+    width: 300px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    height: 50px;
+    border-radius: 10px;
+    border-color: aliceblue;
+}
+.rollbutton{
+    padding-left: 130px;
+    padding-bottom: 20px;
+}
+button{
+    color: black;
+    background-color: lightgreen;
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: green;
+}

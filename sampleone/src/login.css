@@ -1,0 +1,120 @@
+.link{
+  color:white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#basic-nav-dropdown{
+  color: white;
+  border:solid 1px;
+  border-radius: 8px;
+  background-color: green;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main{
+  padding-left:500px;
+  align-content: space-between;
+}
+.link:hover{
+  color:green;
+  text-decoration: underline;
+} 
+#basic-nav-dropdown:hover{
+ background-color: rgb(173, 52, 52);
+} 
+.dpp{
+  background-color: red;
+}
+
+.login-main {
+  text-align: center;
+  justify-content: center;
+  display: flex; 
+  padding-top: 60px;
+}
+.log-img{
+  height: 200px;
+  width: 350px;
+  float: left;
+  padding-top: 280px;
+  padding-left: 200px;
+}
+
+.imgs {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    padding-left: 50px;
+  }
+.container-image {
+  background-color: rgb(223, 221, 221); 
+  border-radius: 150px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 115px;
+  width: 115px;
+}
+.profile {
+  height: 100px;
+  width: 100px;
+  border-radius: 130px;
+} 
+h1{
+  padding-left: 50px;
+}
+
+.Username input{
+    width: 350px;
+    height: 50px;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 25px 0px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+}
+.Password input{
+  width: 350px;
+  height: 50px;
+  border-radius: 5px;
+  box-shadow: inset 0px 0px 25px 0px #888;
+  border: none;
+  outline: none;
+  background-color: #fff;
+}
+.Username{
+  text-align: left;
+  font-size: medium;
+  padding-left: 50px;
+}
+.Password{
+  text-align: left;
+  font-size: medium;
+}
+.second-input{
+  padding-top: 20px;
+  padding-left: 50px;
+}
+.login-button{
+  padding-left: 50px;
+}
+.login-button button{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: lightgreen;
+    color: white;
+    font-size: 25px;
+    border: none;
+    color: black;
+}
+button:hover{
+  background-color: green;
+}
+.login-button{
+    padding-top: 25px;
+}
+
+.link{
+    font-size: 25px;
+    font-weight: 400px;
+}
+ 

@@ -1,0 +1,82 @@
+.link{
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #basic-nav-dropdown{
+    color: white;
+    border:solid 1px;
+    border-radius: 8px;
+    background-color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .main{
+    padding-left:650px;
+    align-content: space-between;
+  }
+  .link:hover{
+    color:green;
+    text-decoration: underline;
+  }
+
+  #basic-nav-dropdown:hover{
+   background-color: rgb(173, 52, 52);
+  }
+  .dpp{
+    background-color: red;
+  }
+  .Contact-head{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .Contact-subhead{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+    font-weight: bold;
+  }
+  .Addressmain{
+    border: solid 1px white;
+    border-radius: 8px;
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 70px;
+  }
+  .Addresshead{
+    color: red;
+  }
+  
+  .contactmain1{
+    border: solid 1px white;
+    border-radius: 8px;
+    background-color: whitesmoke;
+    padding: 30px;
+    width: 550px;
+    margin-top: 50px;
+    margin-left: 70px;
+  }
+  .thublogo{
+    height: 50px;
+    padding-left: 220px;
+  }
+  .contactsubmain{
+    padding: 20px;
+  }
+  .contactinput{
+    height: 40px;
+    width: 450px;
+  }
+ .contactbutton{
+  background-color: lightgreen;
+  color:black;
+  margin-left: 190px;
+  border-radius: 10px;
+  height: 40px;
+  width: 100px;
+ }
+ .contactbutton:hover{
+  background-color: green;
+ }
